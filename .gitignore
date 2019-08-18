@@ -14,5 +14,6 @@ docs/_build/
 data
 data_
 miniconda
+miniconda.sh
 test_out/*
 v0.3.0.tar.gz
