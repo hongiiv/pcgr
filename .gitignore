@@ -12,3 +12,7 @@ docs/_build/
 .DS_Store
 
 data
+data_
+miniconda
+test_out/*
+v0.3.0.tar.gz
